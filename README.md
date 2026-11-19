@@ -24,5 +24,5 @@ build -a ARM -t GCC49 -b RELEASE -p ArmVirtPkg/ArmVirtQemuWinRt.dsc
 ```
 \
 If successful output UEFI Floppy file should be at: ```edk2-winrt/Build/ArmVirtQemuWinRt-ARM/RELEASE_GCC49/FV/QEMU_EFI.fd``` \
-If Build failes delete the ```edk2-winrt\Build``` directory to start over. \
+If Build failes delete the ```edk2-winrt\Build``` directory to start over. 
 
