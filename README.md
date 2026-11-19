@@ -1,6 +1,6 @@
 This is a UEFI Firmware that supports the Windows RT emulation.\
 Sourced/Forked from: https://github.com/driver1998/edk2-winrt\
-Reason for this fork is so that Windows RT 8.1 Boots at a higher 1360 x 600 rather then the default 800 x 600 that will look much better for viewing but still be small enough as a desktop window.\
+Reason for this fork is so that Windows RT 8.1 Boots at a higher 1360 x 600 rather then the default 800 x 600 that will look much better for viewing but still be small enough as a desktop window.\ I want to latter look at a custom UEFI Boot logo as well.\
 \
 Build:\
 You will need Debian 11 and GCC 10.\
